@@ -7,7 +7,7 @@ meme_dict = {
             }
 word = input("Введите непонятное слово (большими буквами!): ")
 
-
+#программа
 
 
 if word in meme_dict.keys():
